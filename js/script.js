@@ -147,7 +147,7 @@ let game_validation = () => {
       return 0
     }
   }
-  alert("Ganaste el titulo de tecnico en chupar monda")
+  alert("You Win !!!!!")
   location.reload();
   return 1
 }
